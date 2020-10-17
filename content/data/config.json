@@ -38,7 +38,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "images/Atoms.jpg"
     },
     "footer": {
         "content": "&copy; Stackbit-Exto. All rights reserved.",
