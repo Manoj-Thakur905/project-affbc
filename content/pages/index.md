@@ -34,9 +34,10 @@ sections:
           and services.
       - title: Opportunity for Young Interns
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+          Internship program is a great opportunity to get a few extra pairs of
+          hands on the job. Transfer some of the simpler, short-term tasks and
+          projects to interns who are eager to understand the process and learn
+          something new.
       - title: Mobile-App Development
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
