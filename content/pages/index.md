@@ -23,7 +23,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Why we Exit?
-    subtitle: How we change People
+    subtitle: How we change People life
     col_number: two
     is_numbered: true
     grid_items:
