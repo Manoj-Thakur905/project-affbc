@@ -52,7 +52,7 @@ sections:
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
-      - author: Sean Salazar
+      - author: Manoj Thakur
         avatar: images/sean_salazar.jpg
         content: >-
           When you are studying at a college or university, you may not always
