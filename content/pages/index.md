@@ -18,7 +18,7 @@ sections:
     title: Our Work
     subtitle: We focus on
     projects_number: 5
-    view_all_label: View All
+    view_all_label: ''
     view_all_url: portfolio
   - section_id: services
     type: section_grid
