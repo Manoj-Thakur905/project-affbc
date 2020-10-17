@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "description": "A portfolio theme with a blog",
     "color_scheme": "dark",
-    "accent_color": "pink",
+    "accent_color": "blue",
     "header": {
         "title": "AtomS",
         "has_nav": true,
