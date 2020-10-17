@@ -23,7 +23,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Why we Exit?
-    subtitle: 'Our role in chnaging '
+    subtitle: Our role in chnaging n
     col_number: two
     is_numbered: true
     grid_items:
