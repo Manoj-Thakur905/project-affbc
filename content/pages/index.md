@@ -29,9 +29,9 @@ sections:
     grid_items:
       - title: Customer Statisfaction
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Customer satisfaction information, including surveys and ratings, can
+          help a company determine how to best improve or changes its products
+          and services.
       - title: Opportunity for Young Interns
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
