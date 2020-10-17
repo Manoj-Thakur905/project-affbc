@@ -2,7 +2,7 @@
 title: Young Intern
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/amazing-thyme.jpg
 image: images/1.jpg
 layout: project
 ---
