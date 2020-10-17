@@ -55,9 +55,10 @@ sections:
       - author: Sean Salazar
         avatar: images/sean_salazar.jpg
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          When you are studying at a college or university, you may not always
+          have the opportunity to apply what you are learning in a real world
+          setting. Internships provide the opportunity to take what you are
+          learning in the classroom and actually use it.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: >-
