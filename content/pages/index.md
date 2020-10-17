@@ -40,9 +40,9 @@ sections:
           something new.
       - title: Mobile-App Development
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          Mobile application development is of great importance. Portability and
+          ease of use make the usability of mobile applications extremely simple
+          for audience with gradually less learning curve.
       - title: Fixing immediate IT problems
         content: >-
           Problem solving is the methods we use to understand what is happening
