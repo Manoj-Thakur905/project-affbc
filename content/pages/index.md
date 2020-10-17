@@ -45,8 +45,9 @@ sections:
           dui sollicitudin.
       - title: Fixing immediate IT problems
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Problem solving is the methods we use to understand what is happening
+          in our environment, identify things we want to change and then figure
+          out the things that need to be done to create the desired outcome.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
