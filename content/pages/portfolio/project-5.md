@@ -2,7 +2,7 @@
 title: Customer Statisfaction
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
-thumb_image: images/knowledgeable-petunia.jpg
+thumb_image: images/15.jpg
 layout: project
 ---
 
