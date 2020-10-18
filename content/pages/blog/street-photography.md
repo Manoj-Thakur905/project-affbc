@@ -1,8 +1,8 @@
 ---
 title: Customer Statisfaction
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
+  Customer satisfaction information, including surveys and ratings, can help a
+  company determine how to best improve or changes its products and services.
 date: '2019-03-10'
 thumb_image: images/good-rabbit.jpg
 image: images/8.jpg
