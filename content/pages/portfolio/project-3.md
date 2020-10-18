@@ -1,5 +1,5 @@
 ---
-title: Project Title 3
+title: Problem Solving
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/energetic-maple.jpg
