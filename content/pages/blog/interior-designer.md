@@ -3,10 +3,7 @@ title: How To Choose An Interior Designer
 subtitle: >-
   Interior design is “the art or process of designing the interior, often
   including the exterior, of a room or building”.
-excerpt: >-
-  Interior design is “the art or process of designing the interior, often
-  including the exterior, of a room or building”. An interior designer is
-  someone who coordinates and manages such projects.
+excerpt: ''
 date: '2017-03-26'
 thumb_image: images/1.jpg
 layout: post
