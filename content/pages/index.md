@@ -79,7 +79,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: View Blog
+      - label: Join Us
         url: blog
         style: button
 layout: advanced
