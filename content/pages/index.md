@@ -64,8 +64,9 @@ sections:
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          We focus on specific, achievable goals rather than boiling the ocean.
+          Our application development solutions address your unique business
+          challenges rather than attempting a full scale transformation
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         content: >-
