@@ -51,7 +51,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: Words from pillars of our firm
     col_number: three
     testimonials:
       - author: Manoj Thakur
