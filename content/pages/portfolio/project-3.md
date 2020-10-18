@@ -2,7 +2,7 @@
 title: Problem Solving
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_image: images/energetic-maple.jpg
+thumb_image: images/great-coriander.jpg
 image: images/3.jpg
 layout: project
 ---
