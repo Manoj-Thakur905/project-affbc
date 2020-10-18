@@ -22,7 +22,7 @@ sections:
     type: section_grid
     title: Why we Exit?
     subtitle: How we change People life
-    col_number: two
+    col_number: three
     is_numbered: true
     grid_items:
       - title: Customer Statisfaction
