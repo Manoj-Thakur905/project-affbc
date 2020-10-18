@@ -17,3 +17,11 @@ and discover new ideas for mutual growth and benefit of both”**
 * Customer satisfaction will be our top priority asthey are ones who decides future of a company. They will took a firm or organisation to top of ladder and they are ones who took down the organisation. Customer satisfaction includes information, surveys and ratings, can help a company determine how to best
 improve or changes its products and services.
 
+We will be working to be good in some of fields so as to grow faster and efficient.
+
+1.  Network design and installation
+2.  Software installation and updates
+3.  Tech support
+4.  Risk assessments
+5.  Security strategy
+6.  Remote admin management
