@@ -1,5 +1,5 @@
 ---
-title: Our Vison
+title: Our Vision
 excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
