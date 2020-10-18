@@ -1,5 +1,5 @@
 ---
-title: Young Intern
+title: Sta
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/pleasant-tiger.jpg
