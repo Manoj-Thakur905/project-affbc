@@ -1,5 +1,5 @@
 ---
-title: Sta
+title: St
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/pleasant-tiger.jpg
