@@ -1,7 +1,7 @@
 ---
 title: ''
 excerpt: ''
-date: '2016-08-22'
+date: ''
 image: images/9.jpg
 layout: post
 ---
