@@ -70,8 +70,11 @@ sections:
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          Customer satisfaction plays an important role within your business.
+          Not only is it the leading indicator to measure customer loyalty,
+          identify unhappy customers, reduce churn and increase revenue; it is
+          also a key point of differentiation that helps you to attract new
+          customers in competitive business environments.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
