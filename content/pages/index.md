@@ -61,7 +61,7 @@ sections:
           have the opportunity to apply what you are learning in a real world
           setting. Internships provide the opportunity to take what you are
           learning in the classroom and actually use it.
-      - author: ''
+      - author: Grover
         avatar: images/aubrey_hoover.jpg
         content: >-
           We focus on specific, achievable goals rather than boiling the ocean.
