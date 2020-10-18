@@ -67,7 +67,7 @@ sections:
           We focus on specific, achievable goals rather than boiling the ocean.
           Our application development solutions address your unique business
           challenges rather than attempting a full scale transformation.
-      - author: Deegan Wallace
+      - author: Rizwan Wani
         avatar: images/deegan_wallace.jpg
         content: >-
           Customer satisfaction is leading indicator to measure customer
