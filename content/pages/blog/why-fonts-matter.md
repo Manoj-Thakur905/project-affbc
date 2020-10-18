@@ -5,7 +5,7 @@ excerpt: >-
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
   placerat lorem.
 date: '2019-03-27'
-thumb_image: images/incredible-sloth.jpg
+thumb_image: images/beige-sage.jpg
 image: images/best-rabbit.jpg
 layout: post
 ---
