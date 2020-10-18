@@ -76,7 +76,7 @@ sections:
           attract new customers in competitive business environments.
   - section_id: latest-posts
     type: section_posts
-    title: Other In formation about Atom
+    title: Other In formation about AtomS
     subtitle: An optional subtitle of the section
     posts_number: 3
     col_number: three
