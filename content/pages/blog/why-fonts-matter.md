@@ -21,7 +21,6 @@ and discover new ideas for mutual growth and benefit of both”**
 improve or changes its products and services.
 
 We will be working to be good in some of fields so as to grow faster and efficient.
-
 1.  Network design and installation
 2.  Software installation and updates
 3.  Tech support
