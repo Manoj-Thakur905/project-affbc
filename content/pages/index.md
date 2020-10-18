@@ -66,7 +66,7 @@ sections:
         content: >-
           We focus on specific, achievable goals rather than boiling the ocean.
           Our application development solutions address your unique business
-          challenges rather than attempting a full scale transformation
+          challenges rather than attempting a full scale transformation.
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         content: >-
