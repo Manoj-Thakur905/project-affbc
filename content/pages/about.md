@@ -1,7 +1,7 @@
 ---
 title: About AtomS
 subtitle: A short Story about AtomS
-image: images/about.jpg
+image: images/10.gif
 layout: page
 ---
 
