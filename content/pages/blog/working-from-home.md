@@ -2,7 +2,6 @@
 title: ''
 excerpt: ''
 date: '2016-08-22'
-thumb_image: images/9.jpg
 image: images/9.jpg
 layout: post
 ---
