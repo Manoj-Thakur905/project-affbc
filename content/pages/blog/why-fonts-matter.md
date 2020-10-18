@@ -1,9 +1,9 @@
 ---
 title: Oppurtunity for Young Interns
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+  Internship program is a great opportunity to get a few extra pairs of hands on
+  the job. Transfer some of the simpler, short-term tasks and projects to
+  interns who are eager to understand the process and learn something new.
 date: '2019-03-27'
 thumb_image: images/polite-pineapple.jpg
 image: images/best-rabbit.jpg
