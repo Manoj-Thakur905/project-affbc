@@ -1,5 +1,5 @@
 ---
-title: Fixing immediate Problems
+title: Fixing Immediate Problems
 subtitle: 'A interesting tale about function of design '
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
