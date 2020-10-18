@@ -1,5 +1,5 @@
 ---
-title: Analysis Of the Products
+title: AtomS Strategies
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/magical-lettuce.jpg
