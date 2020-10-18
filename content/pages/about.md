@@ -1,7 +1,7 @@
 ---
 title: About AtomS
 subtitle: A short Story about AtomS
-image: images/10.gif
+image: images/adorable-tiger.jpg
 layout: page
 ---
 
