@@ -1,6 +1,6 @@
 ---
 title: AtomS Services and Thoughts
-subtitle: 'News, tips and highlights'
+subtitle: ''
 hide_title: false
 col_number: three
 layout: blog
