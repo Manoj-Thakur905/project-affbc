@@ -5,7 +5,6 @@ subtitle: >-
   including the exterior, of a room or building”.
 excerpt: ''
 date: '2017-03-26'
-thumb_image: images/1.jpg
 layout: post
 ---
 
