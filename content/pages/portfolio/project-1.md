@@ -3,7 +3,7 @@ title: Vision
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/important-petunia.jpg
-image: images/1.jpg
+image: images/enthusiastic-mango.jpg
 layout: project
 ---
 **“We team up with all our stakeholder to provide best IT service and discover new ideas for mutual growth and benefit of both”**
