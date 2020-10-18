@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About AtomS
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 layout: page
