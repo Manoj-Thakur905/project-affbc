@@ -6,7 +6,7 @@ excerpt: >-
   placerat lorem.
 date: '2019-03-27'
 thumb_image: images/incredible-sloth.jpg
-image: images/12.jpg
+image: images/best-rabbit.jpg
 layout: post
 ---
 
