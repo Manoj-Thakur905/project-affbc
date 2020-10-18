@@ -5,7 +5,7 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
 date: '2018-01-15'
-thumb_image: images/4.jpg
+thumb_image: images/modern-sycamore.jpg
 image: images/4.jpg
 layout: post
 ---
