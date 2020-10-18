@@ -4,7 +4,7 @@ subtitle: >-
   Interior design is “the art or process of designing the interior, often
   including the exterior, of a room or building”.
 excerpt: ''
-date: '2020-10-18'
+date: '0001-10-18'
 layout: post
 ---
 
