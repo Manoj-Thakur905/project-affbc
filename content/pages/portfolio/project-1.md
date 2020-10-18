@@ -1,6 +1,6 @@
 ---
 title: Vision
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2019-05-10'
 thumb_image: images/important-petunia.jpg
 image: images/enthusiastic-mango.jpg
