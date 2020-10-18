@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'AtomS :: All Types Of Mobile-App Solutions'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: '**“Instead of focusing on the competition, focus on the customer”**'
     actions:
       - label: Let's talk
         url: /contact
