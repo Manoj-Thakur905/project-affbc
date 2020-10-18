@@ -1,8 +1,9 @@
 ---
 title: Mobile-App Development
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Mobile application development is of great importance. Portability and ease of
+  use make the usability of mobile applications extremely simple for audience
+  with gradually less learning curve.
 date: '2019-03-24'
 thumb_image: images/happy-yam.png
 image: images/11.jpg
