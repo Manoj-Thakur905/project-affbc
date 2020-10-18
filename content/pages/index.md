@@ -80,7 +80,7 @@ sections:
     col_number: three
     actions:
       - label: Join Us
-        url: blog
+        url: /contact
         style: button
 layout: advanced
 ---
