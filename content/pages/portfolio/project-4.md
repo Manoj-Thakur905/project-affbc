@@ -2,7 +2,7 @@
 title: Analysis Of the Products
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
-thumb_image: images/thoughtful-tulip.jpg
+thumb_image: images/magical-lettuce.jpg
 image: images/4.jpg
 layout: project
 ---
