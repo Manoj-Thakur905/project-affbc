@@ -16,7 +16,7 @@ In a survey of nearly 200 senior marketing managers, 71 percent responded that t
 
 Here are the top six reasons why customer satisfaction is so important:
 
-*** It’s a leading indicator of consumer repurchase intentions and loyalty
+* It’s a leading indicator of consumer repurchase intentions and loyalty
 
 * It’s a point of differentiation
 
