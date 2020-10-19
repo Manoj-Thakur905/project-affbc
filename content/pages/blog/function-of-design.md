@@ -6,7 +6,7 @@ excerpt: >-
   incididunt ut labore et dolore magna aliqua.
 date: '2018-01-15'
 thumb_image: images/square-sparrow.jpg
-image: images/4.jpg
+image: images/18.png
 layout: post
 ---
 
