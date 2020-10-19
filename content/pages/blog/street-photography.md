@@ -8,7 +8,7 @@ thumb_image: images/good-rabbit.jpg
 image: images/17.png
 layout: post
 ---
-Customer satisfaction is a marketing term that measures how products or services supplied by a company meet or surpass a customer’s expectation.
+**Customer satisfaction** is a marketing term that measures how products or services supplied by a company meet or surpass a customer’s expectation.
 
 Customer satisfaction is important because it provides marketers and business owners with a metric that they can use to manage and improve their businesses.
 
@@ -16,17 +16,17 @@ In a survey of nearly 200 senior marketing managers, 71 percent responded that t
 
 Here are the top six reasons why customer satisfaction is so important:
 
-It’s a leading indicator of consumer repurchase intentions and loyalty
+*** It’s a leading indicator of consumer repurchase intentions and loyalty
 
-It’s a point of differentiation
+* It’s a point of differentiation
 
-It reduces customer churn
-
-It increases customer lifetime value
-
-It reduces negative word of mouth
-
-It’s cheaper to retain customers than acquire new ones
+* It reduces customer churn
+ 
+* It increases customer lifetime value
+ 
+* It reduces negative word of mouth
+ 
+* It’s cheaper to retain customers than acquire new ones**
 
 1. it’s a leading indicator of consumer repurchase intentions and loyalty
 
