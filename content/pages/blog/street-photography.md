@@ -5,7 +5,7 @@ excerpt: >-
   company determine how to best improve or changes its products and services.
 date: '2019-03-10'
 thumb_image: images/good-rabbit.jpg
-image: images/8.jpg
+image: images/16.png
 layout: post
 ---
 
