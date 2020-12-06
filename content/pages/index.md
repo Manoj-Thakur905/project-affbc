@@ -32,10 +32,10 @@ sections:
           and administrations.
       - title: Opportunity for Young Interns
         content: >-
-          Internship program is a great opportunity to get a few extra pairs of
-          hands on the job. Transfer some of the simpler, short-term tasks and
-          projects to interns who are eager to understand the process and learn
-          something new.
+          Temporary job program is an extraordinary occasion to get a couple of
+          additional sets of hands at work. Move a portion of the more
+          straightforward, transient undertakings and tasks to understudies who
+          are anxious to comprehend the cycle and discover some new information.
       - title: Mobile-App Development
         content: >-
           Mobile application development is of great importance. Portability and
