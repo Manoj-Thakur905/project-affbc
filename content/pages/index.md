@@ -38,9 +38,9 @@ sections:
           are anxious to comprehend the cycle and discover some new information.
       - title: Mobile-App Development
         content: >-
-          Mobile application development is of great importance. Portability and
-          ease of use make the usability of mobile applications extremely simple
-          for audience with gradually less learning curve.
+          Mobile application development  is critical. Convenientce and
+          convenience make the ease of use of portable applications very basic
+          for crowd with slowly less expectation to absorb information.
       - title: Fixing immediate IT problems
         content: >-
           Critical thinking is the techniques we use to comprehend what's going
