@@ -63,9 +63,9 @@ sections:
       - author: Paras Grover
         avatar: images/aubrey_hoover.jpg
         content: >-
-          We focus on specific, achievable goals rather than boiling the ocean.
-          Our application development solutions address your unique business
-          challenges rather than attempting a full scale transformation.
+          We center around explicit, feasible objectives instead of heating up
+          the sea. Our application advancement arrangements address your novel
+          business challenges as opposed to endeavoring a full scale change.
       - author: Rizwan Wani
         avatar: images/deegan_wallace.jpg
         content: >-
