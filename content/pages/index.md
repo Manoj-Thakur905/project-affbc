@@ -69,10 +69,10 @@ sections:
       - author: Rizwan Wani
         avatar: images/deegan_wallace.jpg
         content: >-
-          Customer satisfaction is leading indicator to measure customer
-          loyalty, identify unhappy customers, reduce churn and increase
-          revenue; it is also a key point of differentiation that helps you to
-          attract new customers in competitive business environments.
+          Consumer loyalty is driving pointer to gauge client devotion,
+          distinguish miserable clients, diminish beat and increment income; it
+          is additionally a central issue of separation that encourages you to
+          pull in new clients in serious business conditions.
   - section_id: latest-posts
     type: section_posts
     title: Other Information about AtomS
