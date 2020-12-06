@@ -3,7 +3,7 @@ title: Problem Solving
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/great-coriander.jpg
-image: images/3.jpg
+image: images/20.png
 layout: project
 ---
 ###### **Improper Utilization of Data**
