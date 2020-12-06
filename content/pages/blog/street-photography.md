@@ -1,8 +1,9 @@
 ---
 title: Customer Statisfaction
 excerpt: >-
-  Customer satisfaction information, including surveys and ratings, can help a
-  company determine how to best improve or changes its products and services.
+  Consumer loyalty data, including studies and appraisals, can assist an
+  organization with deciding how to best improve or changes its items and
+  administrations.
 date: '2019-03-10'
 thumb_image: images/good-rabbit.jpg
 image: images/17.png
