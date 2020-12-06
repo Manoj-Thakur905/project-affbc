@@ -6,7 +6,8 @@ thumb_image: images/great-coriander.jpg
 image: images/3.jpg
 layout: project
 ---
- **	**Improper Use of Data****  ::	When consumers learn that a company has shared their information without their permission, bad press can hit quickly and do a lot of damage. If it turns out that the company promised not to share but shared anyway, the bad publicity can be devastating.	
-**Solving PRoblem**
+**	**Improper Utilization of Data**** ::	When purchasers discover that an organization has shared their data without their authorization, awful press can hit rapidly and do a great deal of harm. In the event that incidentally, the organization vowed not to share but rather shared at any rate, the terrible exposure can be destroying. 
 
-Activity monitoring solutions can complement logs and help security by continuously observing when and how each user interacts with data. With a well-informed view of user activities, admins can accurately determine if any user actions have harmful intent or otherwise threaten the confidentiality of your data.
+**Solving PRoblem** 
+
+Movement checking arrangements can supplement logs and help security by consistently seeing when and how every client interfaces with information. With an all around educated view regarding client exercises, administrators can precisely decide whether any client activities have unsafe goal or in any case compromise the privacy of your information.
