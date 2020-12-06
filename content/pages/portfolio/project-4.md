@@ -1,6 +1,6 @@
 ---
 title: AtomS Strategies
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2019-02-26'
 thumb_image: images/magical-lettuce.jpg
 image: images/21.png
