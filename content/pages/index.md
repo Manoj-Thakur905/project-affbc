@@ -56,10 +56,10 @@ sections:
       - author: Manoj Thakur
         avatar: images/sean_salazar.jpg
         content: >-
-          When you are studying at a college or university, you may not always
-          have the opportunity to apply what you are learning in a real world
-          setting. Internships provide the opportunity to take what you are
-          learning in the classroom and actually use it.
+          At the point when you are learning at a school or college, you may not
+          generally have the occasion to apply what you are realizing in a
+          certifiable setting. Entry level positions give the occasion to take
+          what you are realizing in the homeroom and really use it.
       - author: Paras Grover
         avatar: images/aubrey_hoover.jpg
         content: >-
