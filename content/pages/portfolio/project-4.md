@@ -3,7 +3,7 @@ title: AtomS Strategies
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/magical-lettuce.jpg
-image: images/4.jpg
+image: images/21.png
 layout: project
 ---
 Selling is unquestionably a work of art that requires a wide range of devices and abilities to take care of business. Recognizing individuals who are keen on purchasing your item, otherwise called "leads," speaks to just the initial step. Persuading them to really purchase your item requires a ground breaking showcasing plan. 
