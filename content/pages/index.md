@@ -43,9 +43,10 @@ sections:
           for audience with gradually less learning curve.
       - title: Fixing immediate IT problems
         content: >-
-          Problem solving is the methods we use to understand what is happening
-          in our environment, identify things we want to change and then figure
-          out the things that need to be done to create the desired outcome.
+          Critical thinking is the techniques we use to comprehend what's going
+          on in our current circumstance, recognize things we need to change and
+          afterward sort out the things that should be done to make the ideal
+          result.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
