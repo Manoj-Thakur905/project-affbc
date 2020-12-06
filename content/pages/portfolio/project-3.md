@@ -6,7 +6,9 @@ thumb_image: images/great-coriander.jpg
 image: images/3.jpg
 layout: project
 ---
-**	**Improper Utilization of Data**** ::	When purchasers discover that an organization has shared their data without their authorization, awful press can hit rapidly and do a great deal of harm. In the event that incidentally, the organization vowed not to share but rather shared at any rate, the terrible exposure can be destroying. 
+###### **Improper Utilization of Data**
+
+When purchasers discover that an organization has shared their data without their authorization, awful press can hit rapidly and do a great deal of harm. In the event that incidentally, the organization vowed not to share but rather shared at any rate, the terrible exposure can be destroying. 
 
 **Solving PRoblem** 
 
