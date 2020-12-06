@@ -1,9 +1,10 @@
 ---
 title: Oppurtunity for Young Interns
 excerpt: >-
-  Internship program is a great opportunity to get a few extra pairs of hands on
-  the job. Transfer some of the simpler, short-term tasks and projects to
-  interns who are eager to understand the process and learn something new.
+  Internship program is an incredible occasion to get a couple of additional
+  sets of hands at work. Move a portion of the more straightforward, momentary
+  assignments and tasks to understudies who are anxious to comprehend the cycle
+  and gain some new useful knowledge.
 date: '2019-03-27'
 thumb_image: images/polite-pineapple.jpg
 image: images/best-rabbit.jpg
