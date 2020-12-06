@@ -27,9 +27,9 @@ sections:
     grid_items:
       - title: Customer Statisfaction
         content: >-
-          Customer satisfaction information, including surveys and ratings, can
-          help a company determine how to best improve or changes its products
-          and services.
+          Consumer loyalty data, including reviews and appraisals, can assist an
+          organization with deciding how to best improve or changes its items
+          and administrations.
       - title: Opportunity for Young Interns
         content: >-
           Internship program is a great opportunity to get a few extra pairs of
