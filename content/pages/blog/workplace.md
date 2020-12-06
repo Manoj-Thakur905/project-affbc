@@ -1,9 +1,9 @@
 ---
 title: Mobile-App Development
 excerpt: >-
-  Mobile application development is of great importance. Portability and ease of
-  use make the usability of mobile applications extremely simple for audience
-  with gradually less learning curve.
+  Mobile application development  is critical. Convenientce and convenience make
+  the ease of use of portable applications very basic for crowd with slowly less
+  expectation to absorb information.
 date: '2019-03-24'
 thumb_image: images/happy-yam.png
 image: images/11.jpg
