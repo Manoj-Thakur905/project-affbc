@@ -1,6 +1,6 @@
 ---
 title: Marketing
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2019-01-05'
 thumb_image: images/15.jpg
 layout: project
