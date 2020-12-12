@@ -1,6 +1,6 @@
 ---
 title: Money Matters
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2019-04-30'
 thumb_image: images/futuristic-aluminum.jpg
 layout: project
