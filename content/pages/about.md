@@ -4,11 +4,11 @@ subtitle: A short Story about AtomS
 image: images/adorable-tiger.jpg
 layout: page
 ---
+**AtomS** mainly focus on to** help people of all types in mobile apps** by focusing on main goal to meet with customer needs. Because customer is the one with which a oragnisations step up to get higher goals so as to become successful to grow on heights.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+It also focus on producing **new ideas** and **promote young interns **to join and to set your abilities to get more exposure by working in organisation.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+We try our best and also our contact staff is helful that it gets back to your query in 1 to 2 business days.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+Thanking You
+**MANOJ THAKUR  (AtomS main ASSET)**
