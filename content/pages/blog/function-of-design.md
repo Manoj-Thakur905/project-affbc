@@ -1,9 +1,7 @@
 ---
 title: Fixing Immediate Problems
 subtitle: 'A interesting tale about function of design '
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+excerpt: ''
 date: '2018-01-15'
 thumb_image: images/square-sparrow.jpg
 image: images/18.png
