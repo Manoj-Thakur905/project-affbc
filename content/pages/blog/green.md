@@ -1,10 +1,7 @@
 ---
 title: Innovative Ideas
 subtitle: 'Apparently, green is my favorite color.'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
-  nam libero justo laoreet sit.
+excerpt: New Ideas
 date: '2018-01-11'
 thumb_image: images/16.jpg
 image: images/19.jpg
