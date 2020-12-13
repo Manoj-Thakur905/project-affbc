@@ -7,9 +7,8 @@ thumb_image: images/16.jpg
 image: images/19.jpg
 layout: post
 ---
-The different types of innovation that you are likely to run across include product, process, supply chain and marketing. Here are 7  reasons that businesses should incorporate to remain innovative.
-
-1. **Creative Development** – Qualities of innovative nature are essential for new businesses today. You can achieve growth by learning how to be creative. You need to learn this business skill to help make things of value from your creativeness. When you have this business skill you will find that it opens up all kinds of opportunities and gives you the potential for a new market and helps you to keep up with the current trends.
+These are some features you sholud able to posses to be part of our organisation for innovations .
+1. **Creative Development** – Qualities of innovative nature are essential for new businesses today. you can achieve growth by learning how to be creative. You need to learn this business skill to help make things of value from your creativeness. When you have this business skill you will find that it opens up all kinds of opportunities and gives you the potential for a new market and helps you to keep up with the current trends.
 
 2.** Continuous Improvement** – Innovation gives organizational sustainability when you are making continual improvements and repackaging and re-branding. Any good manager will recognize the need to innovate and grows the business skills to increase their creativity.
 
