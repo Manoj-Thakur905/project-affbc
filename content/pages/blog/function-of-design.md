@@ -1,6 +1,6 @@
 ---
 title: Fixing Immediate Problems
-subtitle: 'A interesting tale about function of design '
+subtitle: ''
 excerpt: Fast track query solvers
 date: '2018-01-15'
 thumb_image: images/square-sparrow.jpg
